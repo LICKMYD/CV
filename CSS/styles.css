@@ -1,0 +1,38 @@
+
+ body {
+  background-color: #ffdd93;
+ }
+
+ hr{
+   background-color: white;
+   border-style: none;
+   width: 70%;
+ }
+
+ img{
+   height: 210px;
+ }
+
+ h1{
+   color: #535204;
+   text-align: center;
+
+ }
+h2{
+  color: #535204;
+  text-align: center;
+
+}
+h3{
+  color: #535204;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+table{
+  text-align: center;
+}
+form{
+  text-align: center;
+}
