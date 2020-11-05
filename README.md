@@ -1,2 +1,0 @@
-# CV
-Ahmad Rammaha CV
